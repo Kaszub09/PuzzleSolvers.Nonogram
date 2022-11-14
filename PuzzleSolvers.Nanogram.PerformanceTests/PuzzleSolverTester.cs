@@ -1,6 +1,7 @@
 ﻿using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Engines;
 using PuzzleSolvers.Nanogram.Tests;
+using PuzzleSolvers.Nonogram.Tests;
 using System;
 using System.Collections.Generic;
 using System.Linq;
