@@ -1,9 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <PackageId>Kaszub09.$(AssemblyName)</PackageId>
+    <Authors>Marcin Kaszuba</Authors>
+    <Company>Kaszub09</Company>
     <Title>PuzzleSolvers.Nanogram</Title>
+    <RepositoryUrl>https://github.com/Kaszub09/PuzzleSolvers.Nonogram</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Kaszub09/PuzzleSolvers.Nonogram</PackageProjectUrl>
+    <VersionPrefix>0.9.0</VersionPrefix>
+    <Description>Library with solver for nonogram logic puzzle</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Nonogram,Puzzle,Solver,Hanjie, Paint by Numbers,Picross,Griddler</PackageTags>
   </PropertyGroup>
 	<ItemGroup>
 		<AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
