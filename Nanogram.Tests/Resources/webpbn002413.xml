@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE pbn SYSTEM "https://webpbn.com/pbn-0.3.dtd">
+<puzzleset>
+<source>webpbn.com</source>
+
+<puzzle type="grid" defaultcolor="black">
+<title>Where there&apos;s smoke...</title>
+<author>Marcus</author>
+<authorid>aanet</authorid>
+<copyright>(c) Copyright 2008 by Marcus</copyright>
+<id>#2413 (v.1)</id>
+<description>Man with pipe and cap.</description>
+<note>published,definitely unique,definitely requires moderate lookahead</note>
+
+<color name="white" char=".">FFFFFF</color>
+<color name="black" char="X">000000</color>
+
+<clues type="columns">
+<line><count>2</count><count>2</count><count>1</count></line>
+<line><count>1</count><count>6</count><count>4</count><count>4</count></line>
+<line><count>3</count><count>3</count><count>1</count><count>1</count><count>4</count></line>
+<line><count>2</count><count>2</count></line>
+<line><count>1</count><count>3</count><count>3</count><count>3</count></line>
+<line><count>1</count><count>1</count><count>1</count><count>2</count><count>1</count><count>2</count></line>
+<line><count>2</count><count>1</count><count>1</count><count>1</count><count>1</count></line>
+<line><count>2</count><count>4</count><count>3</count><count>3</count></line>
+<line><count>3</count><count>1</count><count>2</count><count>3</count><count>1</count></line>
+<line><count>1</count><count>4</count><count>2</count><count>1</count></line>
+<line><count>3</count><count>1</count><count>2</count></line>
+<line><count>2</count><count>1</count><count>1</count></line>
+<line><count>3</count><count>3</count></line>
+<line><count>7</count><count>4</count></line>
+<line><count>5</count><count>4</count></line>
+<line><count>3</count><count>2</count><count>1</count><count>3</count></line>
+<line><count>3</count><count>4</count><count>1</count></line>
+<line><count>9</count><count>2</count></line>
+<line><count>8</count><count>3</count></line>
+<line><count>1</count><count>8</count><count>2</count></line>
+</clues>
+
+<clues type="rows">
+<line><count>1</count><count>3</count><count>2</count><count>1</count></line>
+<line><count>1</count><count>2</count><count>2</count></line>
+<line><count>3</count><count>4</count></line>
+<line><count>2</count><count>3</count><count>2</count></line>
+<line><count>2</count><count>1</count><count>6</count></line>
+<line><count>2</count><count>13</count><count>1</count></line>
+<line><count>1</count><count>1</count><count>8</count></line>
+<line><count>2</count><count>1</count><count>1</count><count>7</count></line>
+<line><count>1</count><count>2</count><count>2</count><count>2</count><count>3</count></line>
+<line><count>3</count><count>1</count><count>1</count><count>1</count><count>3</count></line>
+<line><count>1</count><count>2</count><count>1</count><count>1</count><count>3</count></line>
+<line><count>2</count><count>1</count><count>1</count><count>3</count></line>
+<line><count>1</count><count>5</count><count>5</count></line>
+<line><count>1</count><count>1</count><count>3</count></line>
+<line><count>4</count><count>2</count></line>
+<line><count>2</count><count>2</count><count>1</count><count>2</count><count>1</count></line>
+<line><count>2</count><count>1</count><count>2</count><count>3</count><count>2</count></line>
+<line><count>4</count><count>1</count><count>6</count><count>1</count></line>
+<line><count>3</count><count>4</count><count>3</count><count>2</count></line>
+<line><count>4</count><count>2</count></line>
+</clues>
+
+<solution type="goal">
+<image>
+|.X.XXX..XX.........X|
+|X.XX...XX...........|
+|XXX...XXXX..........|
+|.XX.XXX..XX.........|
+|XX..X....XXXXXX.....|
+|XX..XXXXXXXXXXXXX..X|
+|.X.....X....XXXXXXXX|
+|.XX....X.X...XXXXXXX|
+|..X...XX.XX..XX..XXX|
+|XXX..X.......X.X.XXX|
+|.X..XX.......X.X.XXX|
+|.XX.X...X........XXX|
+|.X..XXXXX......XXXXX|
+|..X....X........XXX.|
+|.....XXXX.......XX..|
+|.XX.XX..X......XX..X|
+|.XX.X..XX....XXX..XX|
+|.XXXX..X..XXXXXX..X.|
+|.XXX...XXXX.XXX..XX.|
+|...........XXXX.XX..|
+</image>
+</solution>
+
+</puzzle>
+</puzzleset>
